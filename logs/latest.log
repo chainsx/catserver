@@ -1,0 +1,591 @@
+[09:03:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name catserver.server.launcher.CatServerTweaker
+[09:03:22] [main/INFO] [LaunchWrapper]: Calling tweak class catserver.server.launcher.CatServerTweaker
+[09:03:22] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
+[09:03:22] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_212, running on Linux:amd64:4.15.0-55-generic, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[09:03:22] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[09:03:22] [main/ERROR] [FML]: Full: /root/catserver/libraries/maven-artifact-3.5.3.jar
+[09:03:22] [main/ERROR] [FML]: Trimmed: /root/catserver/
+[09:03:24] [main/WARN] [FML]: The coremod CatCorePlugin (catserver.server.CatCorePlugin) is not signed!
+[09:03:24] [main/INFO] [FML]: Searching /root/catserver/./mods for mods
+[09:03:24] [main/INFO] [FML]: Searching /root/catserver/./mods/1.12.2 for mods
+[09:03:24] [main/WARN] [FML]: The coremod com.anotherera.core.AnotherCommonBugFix does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[09:03:24] [main/WARN] [FML]: The coremod AnotherCommonBugFix (com.anotherera.core.AnotherCommonBugFix) is not signed!
+[09:03:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in DummyCoreUnofficial-2.4.112.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[09:03:24] [main/WARN] [FML]: The coremod DummyCore.ASM.DCLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[09:03:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:03:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[09:03:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:03:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:03:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:03:27] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[09:03:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:03:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:03:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:03:27] [main/INFO] [STDOUT]: [com.anotherera.core.ACBFClassTransformer:init:53]: Another Common Bug Fix Load: forestry.core.inventory.ItemInventory classResource/ItemInventory.class
+[09:03:27] [main/INFO] [STDOUT]: [com.anotherera.core.ACBFClassTransformer:init:53]: Another Common Bug Fix Load: micdoodle8.mods.galacticraft.core.entities.EntityParachest classResource/EntityParachest.class
+[09:03:27] [main/INFO] [STDOUT]: [com.anotherera.core.ACBFClassTransformer:init:53]: Another Common Bug Fix Load: thaumcraft.api.crafting.ContainerProxy classResource/thaumcraft/api/crafting/ContainerProxy.class
+[09:03:27] [main/INFO] [STDOUT]: [com.anotherera.core.ACBFClassTransformer:init:53]: Another Common Bug Fix Load: thaumcraft.common.container.ContainerArcaneWorkbench classResource/thaumcraft/common/container/ContainerArcaneWorkbench.class
+[09:03:27] [main/INFO] [STDOUT]: [com.anotherera.core.ACBFClassTransformer:init:53]: Another Common Bug Fix Load: thaumcraft.common.tiles.crafting.TileArcaneWorkbench classResource/thaumcraft/common/tiles/crafting/TileArcaneWorkbench.class
+[09:03:27] [main/INFO] [STDOUT]: [com.anotherera.core.ACBFClassTransformer:init:53]: Another Common Bug Fix Load: mods.flammpfeil.slashblade.RecipeInstantRepair classResource/RecipeInstantRepair.class
+[09:03:27] [main/INFO] [STDOUT]: [com.anotherera.core.ACBFClassTransformer:init:53]: Another Common Bug Fix Load: ic2.core.ContainerBase classResource/ic2/core/ContainerBase.class
+[09:03:27] [main/INFO] [STDOUT]: [com.anotherera.core.ACBFClassTransformer:init:53]: Another Common Bug Fix Load: ic2.core.block.machine.container.ContainerIndustrialWorkbench classResource/ic2/core/block/machine/container/ContainerIndustrialWorkbench.class
+[09:03:27] [main/INFO] [STDOUT]: [com.anotherera.core.ACBFClassTransformer:init:53]: Another Common Bug Fix Load: ic2.core.block.machine.tileentity.TileEntityBatchCrafter$4 classResource/TileEntityBatchCrafter$4.class
+[09:03:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:03:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[09:03:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[09:03:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[09:03:28] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[09:03:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[09:03:32] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2838 Initialized
+[09:03:32] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[09:03:32] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[09:03:32] [Server thread/WARN] [FML]: Enabling removal of erroring Entities - USE AT YOUR OWN RISK
+[09:03:32] [Server thread/WARN] [FML]: Enabling removal of erroring Tile Entities - USE AT YOUR OWN RISK
+[09:03:32] [Server thread/INFO] [FML]: Searching /root/catserver/./mods for mods
+[09:03:32] [Server thread/INFO] [FML]: Searching /root/catserver/./mods/1.12.2 for mods
+[09:03:33] [Server thread/INFO] [FML]: Disabling mod thaumicjei it is client side only.
+[09:03:33] [Server thread/INFO] [FML]: Forge Mod Loader has identified 14 mods to load
+[09:03:33] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[09:03:33] [Server thread/WARN] [FML]: Missing English translation for dummycore: assets/dummycore/lang/en_us.lang
+[09:03:33] [Server thread/WARN] [FML]: Missing English translation for spedosketeleportationcommands: assets/spedosketeleportationcommands/lang/en_us.lang
+[09:03:33] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[09:03:33] [Server thread/INFO] [FML]: FML has found a non-mod file ThaumicJEI-1.12.2-1.6.0-27.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[09:03:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, anothercommonbugfix, appliedenergistics2, baubles, dummycore, mineral_expansion, spedosketeleportationcommands, thaumcraft, thaumicbases, thaumicenergistics, worldedit] at CLIENT
+[09:03:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, anothercommonbugfix, appliedenergistics2, baubles, dummycore, mineral_expansion, spedosketeleportationcommands, thaumcraft, thaumicbases, thaumicenergistics, worldedit] at SERVER
+[09:03:35] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[09:03:35] [Server thread/INFO] [FML]: Found 1169 ObjectHolder annotations
+[09:03:35] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[09:03:35] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[09:03:35] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[09:03:35] [Server thread/INFO] [AE2:S]: Pre Initialization ( started )
+[09:03:38] [Server thread/INFO] [AE2:S]: Starting AE2 VersionChecker
+[09:03:38] [Server thread/INFO] [AE2:S]: Pre Initialization ( ended after 2598ms )
+[09:03:38] [Server thread/INFO] [mineral_expansion]: Started loading config... 
+[09:03:38] [Server thread/INFO] [mineral_expansion]: Finished loading config. 
+[09:03:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.overchanter`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.campfire`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.brazier`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.eldritchbane`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.elderknowledge`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.tainted`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:38] [Server thread/INFO] [thaumicenergistics]: Integrations: PreInit
+[09:03:39] [Server thread/INFO] []: Another Common Bug Fix Transform: thaumcraft.common.tiles.crafting.TileArcaneWorkbench
+[09:03:39] [Server thread/INFO] [thaumicenergistics]: Registering Blocks
+[09:03:39] [Server thread/INFO] [FML]: Applying holder lookups
+[09:03:39] [Server thread/INFO] [FML]: Holder lookups applied
+[09:03:39] [AE2 VersionChecker/INFO] [AE2:S]: No newer version is available: rv6-stable-7(found) < rv6-stable-7 (current)
+[09:03:39] [AE2 VersionChecker/INFO] [AE2:S]: Stopping AE2 VersionChecker
+[09:03:39] [Server thread/INFO] [thaumicenergistics]: Registering ItemBlocks
+[09:03:39] [Server thread/INFO] [thaumicenergistics]: Registering 18 Items
+[09:03:39] [Server thread/INFO] [FML]: Applying holder lookups
+[09:03:39] [Server thread/INFO] [FML]: Holder lookups applied
+[09:03:39] [Server thread/INFO] [FML]: Applying holder lookups
+[09:03:39] [Server thread/INFO] [FML]: Holder lookups applied
+[09:03:39] [Server thread/INFO] [FML]: Applying holder lookups
+[09:03:39] [Server thread/INFO] [FML]: Holder lookups applied
+[09:03:39] [Server thread/INFO] [FML]: Injecting itemstacks
+[09:03:39] [Server thread/INFO] [FML]: Itemstack injection complete
+[09:03:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[09:03:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[09:03:40] [Server thread/INFO] [Minecraft]: This server is running CatServer version git-4b6a920-Community (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[09:03:40] [Server thread/INFO] []: Server Ping Player Sample Count: 12
+[09:03:40] [Server thread/INFO] [Minecraft]: Using 4 threads for Netty based IO
+[09:03:40] [Server thread/INFO] [Minecraft]: Debug logging is enabled
+[09:03:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[09:03:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[09:03:40] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[09:03:40] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:03:40] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[09:03:40] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:03:40] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:03:40] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
+[09:03:40] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
+[09:03:40] [Server thread/INFO] [FML]: Applying holder lookups
+[09:03:40] [Server thread/INFO] [FML]: Holder lookups applied
+[09:03:40] [Server thread/INFO] [FML]: Another Common Bug Fix Loaded
+[09:03:40] [Server thread/INFO] [AE2:S]: Initialization ( started )
+[09:03:40] [Server thread/INFO] [AE2:S]: Disabling item.csv export for custom recipes, since creative tab information is only available on the client.
+[09:03:41] [Server thread/INFO] [AE2:S]: Initialization ( ended after 155ms )
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldcobble`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldcobblemossy`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldgravel`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldbrick`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldlapis`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldiron`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldgold`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decoolddiamond`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.smb`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.smbreturn`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.ironspike`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.thaumspike`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.voidspike`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.bchest`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.blegs`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.bboots`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.mortal`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.camp`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.braizer`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.greatpipe`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.syrop`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.relax`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.hunger`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[09:03:41] [Server thread/INFO] [thaumicenergistics]: Integrations: Init
+[09:03:41] [Server thread/INFO] [thaumicenergistics]: Registering Research Category
+[09:03:41] [Server thread/INFO] [thaumicenergistics]: Registering Research
+[09:03:41] [Server thread/INFO] [FML]: Injecting itemstacks
+[09:03:41] [Server thread/INFO] [FML]: Itemstack injection complete
+[09:03:41] [Server thread/WARN] [FML]: No types have been added to Biome appliedenergistics2:storage_biome, types have been assigned on a best-effort guess: [COLD, PLAINS]
+[09:03:41] [Server thread/INFO] [AE2:S]: Post Initialization ( started )
+[09:03:41] [Server thread/INFO] [AE2:S]: Industrial Craft 2 - Integration Disabled
+[09:03:41] [Server thread/INFO] [AE2:S]: Railcraft - Integration Disabled
+[09:03:41] [Server thread/INFO] [AE2:S]: Mine Factory Reloaded - Integration Disabled
+[09:03:41] [Server thread/INFO] [AE2:S]: Waila - Integration Disabled
+[09:03:41] [Server thread/INFO] [AE2:S]: Mekanism - Integration Disabled
+[09:03:41] [Server thread/INFO] [AE2:S]: OpenComputers - Integration Disabled
+[09:03:41] [Server thread/INFO] [AE2:S]: TheOneProbe - Integration Disabled
+[09:03:41] [Server thread/INFO] [AE2:S]: Tesla - Integration Disabled
+[09:03:41] [Server thread/INFO] [AE2:S]: CraftTweaker - Integration Disabled
+[09:03:41] [Server thread/INFO] [AE2:S]: Post Initialization ( ended after 394ms )
+[09:03:41] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
+[09:03:41] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
+[09:03:41] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
+[09:03:41] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
+[09:03:41] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
+[09:03:41] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
+[09:03:41] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
+[09:03:41] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
+[09:03:41] [Server thread/INFO] [THAUMCRAFT]: Loaded 10 research entries from thaumicenergistics:research/thaumicenergistics
+[09:03:41] [Server thread/INFO] [thaumicenergistics]: Integrations: PostInit
+[09:03:41] [Server thread/INFO] [worldedit]: WorldEdit for Forge (version 6.1.10-SNAPSHOT) is loaded
+[09:03:42] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 14 mods
+[09:03:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command time with permission node minecraft.command.time
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command gamemode with permission node minecraft.command.gamemode
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command difficulty with permission node minecraft.command.difficulty
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command defaultgamemode with permission node minecraft.command.defaultgamemode
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command kill with permission node minecraft.command.kill
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command toggledownfall with permission node minecraft.command.toggledownfall
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command weather with permission node minecraft.command.weather
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command xp with permission node minecraft.command.xp
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command tp with permission node minecraft.command.tp
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command teleport with permission node minecraft.command.teleport
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command give with permission node minecraft.command.give
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command replaceitem with permission node minecraft.command.replaceitem
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command stats with permission node minecraft.command.stats
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command effect with permission node minecraft.command.effect
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command enchant with permission node minecraft.command.enchant
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command particle with permission node minecraft.command.particle
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command me with permission node minecraft.command.me
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command seed with permission node minecraft.command.seed
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command help with permission node minecraft.command.help
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command debug with permission node minecraft.command.debug
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command tell with permission node minecraft.command.tell
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command say with permission node minecraft.command.say
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command spawnpoint with permission node minecraft.command.spawnpoint
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command setworldspawn with permission node minecraft.command.setworldspawn
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command gamerule with permission node minecraft.command.gamerule
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command clear with permission node minecraft.command.clear
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command testfor with permission node minecraft.command.testfor
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command spreadplayers with permission node minecraft.command.spreadplayers
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command playsound with permission node minecraft.command.playsound
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command scoreboard with permission node minecraft.command.scoreboard
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command execute with permission node minecraft.command.execute
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command trigger with permission node minecraft.command.trigger
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command advancement with permission node minecraft.command.advancement
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command recipe with permission node minecraft.command.recipe
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command summon with permission node minecraft.command.summon
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command setblock with permission node minecraft.command.setblock
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command fill with permission node minecraft.command.fill
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command clone with permission node minecraft.command.clone
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command testforblocks with permission node minecraft.command.testforblocks
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command blockdata with permission node minecraft.command.blockdata
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command testforblock with permission node minecraft.command.testforblock
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command tellraw with permission node minecraft.command.tellraw
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command worldborder with permission node minecraft.command.worldborder
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command title with permission node minecraft.command.title
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command entitydata with permission node minecraft.command.entitydata
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command stopsound with permission node minecraft.command.stopsound
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command locate with permission node minecraft.command.locate
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command reload with permission node minecraft.command.reload
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command function with permission node minecraft.command.function
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command op with permission node minecraft.command.op
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command deop with permission node minecraft.command.deop
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command stop with permission node minecraft.command.stop
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command save-all with permission node minecraft.command.save-all
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command save-off with permission node minecraft.command.save-off
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command save-on with permission node minecraft.command.save-on
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command ban-ip with permission node minecraft.command.ban-ip
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command pardon-ip with permission node minecraft.command.pardon-ip
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command ban with permission node minecraft.command.ban
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command banlist with permission node minecraft.command.banlist
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command pardon with permission node minecraft.command.pardon
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command kick with permission node minecraft.command.kick
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command list with permission node minecraft.command.list
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command whitelist with permission node minecraft.command.whitelist
+[09:03:42] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command setidletimeout with permission node minecraft.command.setidletimeout
+[09:03:42] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[09:03:42] [Server thread/INFO] [FML]: Applying holder lookups
+[09:03:42] [Server thread/INFO] [FML]: Holder lookups applied
+[09:03:42] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[09:03:42] [Server thread/INFO] [FML]: Applying holder lookups
+[09:03:42] [Server thread/INFO] [FML]: Holder lookups applied
+[09:03:43] [Server thread/INFO] [Minecraft]: -------- World Settings For [world] --------
+[09:03:43] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
+[09:03:43] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
+[09:03:43] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
+[09:03:43] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
+[09:03:43] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
+[09:03:43] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
+[09:03:43] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
+[09:03:43] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
+[09:03:43] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
+[09:03:43] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
+[09:03:43] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
+[09:03:43] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[09:03:43] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[09:03:43] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
+[09:03:43] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
+[09:03:43] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[09:03:43] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
+[09:03:43] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:03:43] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
+[09:03:43] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
+[09:03:43] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:03:43] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
+[09:03:43] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
+[09:03:43] [Server thread/INFO] [Minecraft]: View Distance: 10
+[09:03:43] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
+[09:03:43] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
+[09:03:43] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:03:43] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2c4939f4)
+[09:03:44] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 514 advancements
+[09:03:44] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
+[09:03:44] [Server thread/INFO] [Minecraft]: -------- World Settings For [DIM-1] --------
+[09:03:44] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
+[09:03:44] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[09:03:44] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[09:03:44] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
+[09:03:44] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
+[09:03:44] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[09:03:44] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
+[09:03:44] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:03:44] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
+[09:03:44] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
+[09:03:44] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:03:44] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
+[09:03:44] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
+[09:03:44] [Server thread/INFO] [Minecraft]: View Distance: 10
+[09:03:44] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
+[09:03:44] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
+[09:03:44] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:03:44] [Server thread/INFO] [FML]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@2c4939f4)
+[09:03:44] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[09:03:44] [Server thread/INFO] [Minecraft]: -------- World Settings For [DIM1] --------
+[09:03:44] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
+[09:03:44] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[09:03:44] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[09:03:44] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
+[09:03:44] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
+[09:03:44] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[09:03:44] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
+[09:03:44] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:03:44] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
+[09:03:44] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
+[09:03:44] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:03:44] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
+[09:03:44] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
+[09:03:44] [Server thread/INFO] [Minecraft]: View Distance: 10
+[09:03:44] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
+[09:03:44] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
+[09:03:44] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:03:44] [Server thread/INFO] [FML]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@2c4939f4)
+[09:03:44] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[09:03:44] [Server thread/INFO] [Minecraft]: -------- World Settings For [DIM2] --------
+[09:03:44] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
+[09:03:44] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
+[09:03:44] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[09:03:44] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[09:03:44] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
+[09:03:44] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
+[09:03:44] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[09:03:44] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
+[09:03:44] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:03:44] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
+[09:03:44] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
+[09:03:44] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:03:44] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
+[09:03:44] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
+[09:03:44] [Server thread/INFO] [Minecraft]: View Distance: 10
+[09:03:44] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
+[09:03:44] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
+[09:03:44] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:03:44] [Server thread/INFO] [FML]: Loading dimension 2 (DIM2) (net.minecraft.server.dedicated.DedicatedServer@2c4939f4)
+[09:03:44] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 2
+[09:03:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0 (Seed: -6811915065873055477)
+[09:03:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 9%
+[09:03:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 59%
+[09:03:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 1 (Seed: -6811915065873055477)
+[09:03:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 2 (Seed: -6811915065873055477)
+[09:03:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 3 (Seed: -158021832631047596)
+[09:03:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 66%
+[09:03:49] [Server thread/INFO] [Minecraft]: Server permissions file permissions.yml is empty, ignoring it
+[09:03:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (7.263s)! For help, type "help" or "?"
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command forge with permission node minecraft.command.forge
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command ae2 with permission node minecraft.command.ae2
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command baubles with permission node minecraft.command.baubles
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command tptodimension with permission node minecraft.command.tptodimension
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command tpa with permission node minecraft.command.tpa
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command tpaccept with permission node minecraft.command.tpaccept
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command tpdeny with permission node minecraft.command.tpdeny
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command listhome with permission node minecraft.command.listhome
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command delhome with permission node minecraft.command.delhome
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command sethome with permission node minecraft.command.sethome
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command home with permission node minecraft.command.home
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command back with permission node minecraft.command.back
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command thaumcraft with permission node minecraft.command.thaumcraft
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /distr with permission node minecraft.command./distr
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /contract with permission node minecraft.command./contract
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /chunk with permission node minecraft.command./chunk
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command superpickaxe with permission node minecraft.command.superpickaxe
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /ex with permission node minecraft.command./ex
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /wand with permission node minecraft.command./wand
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command info with permission node minecraft.command.info
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /stack with permission node minecraft.command./stack
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /gmask with permission node minecraft.command./gmask
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /forest with permission node minecraft.command./forest
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /fixwater with permission node minecraft.command./fixwater
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /fillr with permission node minecraft.command./fillr
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /generatebiome with permission node minecraft.command./generatebiome
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command cs with permission node minecraft.command.cs
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command tree with permission node minecraft.command.tree
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /generate with permission node minecraft.command./generate
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /walls with permission node minecraft.command./walls
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command repl with permission node minecraft.command.repl
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /faces with permission node minecraft.command./faces
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command jumpto with permission node minecraft.command.jumpto
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /removeabove with permission node minecraft.command./removeabove
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /sel with permission node minecraft.command./sel
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /line with permission node minecraft.command./line
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command range with permission node minecraft.command.range
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command butcher with permission node minecraft.command.butcher
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command mask with permission node minecraft.command.mask
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /overlay with permission node minecraft.command./overlay
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command cycler with permission node minecraft.command.cycler
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /regen with permission node minecraft.command./regen
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /hpos2 with permission node minecraft.command./hpos2
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /hsphere with permission node minecraft.command./hsphere
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command brush with permission node minecraft.command.brush
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /redo with permission node minecraft.command./redo
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command mat with permission node minecraft.command.mat
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command listchunks with permission node minecraft.command.listchunks
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /shift with permission node minecraft.command./shift
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /naturalize with permission node minecraft.command./naturalize
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /move with permission node minecraft.command./move
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command size with permission node minecraft.command.size
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /fixlava with permission node minecraft.command./fixlava
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command clearclipboard with permission node minecraft.command.clearclipboard
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command worldedit with permission node minecraft.command.worldedit
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /load with permission node minecraft.command./load
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command farwand with permission node minecraft.command.farwand
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /cyl with permission node minecraft.command./cyl
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command biomelist with permission node minecraft.command.biomelist
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /pos1 with permission node minecraft.command./pos1
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command tool with permission node minecraft.command.tool
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /limit with permission node minecraft.command./limit
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command floodfill with permission node minecraft.command.floodfill
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /hollow with permission node minecraft.command./hollow
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /flip with permission node minecraft.command./flip
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command .s with permission node minecraft.command..s
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /curve with permission node minecraft.command./curve
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /set with permission node minecraft.command./set
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command unstuck with permission node minecraft.command.unstuck
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /outset with permission node minecraft.command./outset
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /searchitem with permission node minecraft.command./searchitem
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /copy with permission node minecraft.command./copy
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command schematic with permission node minecraft.command.schematic
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command thru with permission node minecraft.command.thru
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /green with permission node minecraft.command./green
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /save with permission node minecraft.command./save
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /replacenear with permission node minecraft.command./replacenear
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /removebelow with permission node minecraft.command./removebelow
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /fast with permission node minecraft.command./fast
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command / with permission node minecraft.command./
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /hpos1 with permission node minecraft.command./hpos1
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command chunkinfo with permission node minecraft.command.chunkinfo
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /cut with permission node minecraft.command./cut
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /count with permission node minecraft.command./count
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /removenear with permission node minecraft.command./removenear
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command descend with permission node minecraft.command.descend
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /paste with permission node minecraft.command./paste
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /help with permission node minecraft.command./help
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /setbiome with permission node minecraft.command./setbiome
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /rotate with permission node minecraft.command./rotate
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command deltree with permission node minecraft.command.deltree
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /clearhistory with permission node minecraft.command./clearhistory
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command remove with permission node minecraft.command.remove
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /size with permission node minecraft.command./size
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /replace with permission node minecraft.command./replace
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command forestgen with permission node minecraft.command.forestgen
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /hpyramid with permission node minecraft.command./hpyramid
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /sphere with permission node minecraft.command./sphere
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command ceil with permission node minecraft.command.ceil
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command restore with permission node minecraft.command.restore
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command delchunks with permission node minecraft.command.delchunks
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command snapshot with permission node minecraft.command.snapshot
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /flora with permission node minecraft.command./flora
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command lrbuild with permission node minecraft.command.lrbuild
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command pumpkins with permission node minecraft.command.pumpkins
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command ascend with permission node minecraft.command.ascend
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command none with permission node minecraft.command.none
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command toggleeditwand with permission node minecraft.command.toggleeditwand
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command biomeinfo with permission node minecraft.command.biomeinfo
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /expand with permission node minecraft.command./expand
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /inset with permission node minecraft.command./inset
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /pyramid with permission node minecraft.command./pyramid
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /toggleplace with permission node minecraft.command./toggleplace
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /pos2 with permission node minecraft.command./pos2
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /hcyl with permission node minecraft.command./hcyl
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /snow with permission node minecraft.command./snow
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /undo with permission node minecraft.command./undo
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command up with permission node minecraft.command.up
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /fill with permission node minecraft.command./fill
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /thaw with permission node minecraft.command./thaw
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /deform with permission node minecraft.command./deform
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /calc with permission node minecraft.command./calc
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /center with permission node minecraft.command./center
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /drain with permission node minecraft.command./drain
+[09:03:49] [Server thread/INFO] [net.minecraft.command.CommandHandler]: Registered command /smooth with permission node minecraft.command./smooth
+[09:03:49] [Thread-9/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[09:03:49] [Thread-10/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[09:03:49] [Thread-12/INFO] [THAUMCRAFT]: Starting aura thread for dim 2
+[09:03:49] [Thread-11/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[09:04:05] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player jklvfde is 0e539e89-39e9-37ea-accf-8017228744d6
+[09:04:06] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[09:04:06] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,mshome@1.2,tf2@1.0.0,dummycore@2.4.112.5.,spedosketeleportationcommands@0.7,baubles@1.5.2,deconstruction@3.0.4,jei@4.15.0.287,mineral_expansion@1.0.5,mod_autofish@1.12-1.7,thaumicbases@3.3.400.6r,thaumicenergistics@2.2.3,veinminermodsupport@0.38.1,ultimatestack@1.3.1,scenter@1.12-3.11.0,thaumicjei@1.6.0,mcp@9.42,journeymap@1.12.2-5.5.0rc1,veinminer@0.38.1,appliedenergistics2@rv6-stable-7,PPDummy@1.0.0,FML@8.0.99.99,anothercommonbugfix@1.0.5,inventorytweaks@1.63+release.109.220f184,ppcore@1.3.0,worldedit@6.1.10-SNAPSHOT,tinymobfarm@1.0.5,soundphysics@1.0.4,ichunutil@7.2.1,thaumcraft@6.1.BETA26,durabilityshow@5.0.0,forge@14.23.5.2838,phosphor-lighting@1.12.2-0.2.6,orelib@3.5.2.2,weaponlevels@2.4.0
+[09:04:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[09:04:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: jklvfde[/223.87.65.29:8874] logged in with entity id 100 at ([world]-878.3053128225679, 78.0, 648.5925928608345)
+[09:04:57] [Netty Epoll Server IO #3/INFO] []: <jklvfde> you used to call me on my cellphone
+[09:07:37] [Netty Epoll Server IO #3/INFO] []: <jklvfde> late night when you need my love
+[09:13:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jklvfde issued server command: /time set 1000
+[09:13:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jklvfde: Set the time to 1000]
+[09:17:35] [Netty Epoll Server IO #3/INFO] []: <jklvfde> you used to call me on my cellphone
+[09:17:37] [Netty Epoll Server IO #3/INFO] []: <jklvfde> late night when you need my love
+[09:17:44] [Netty Epoll Server IO #3/INFO] []: <jklvfde> call me on my cellphone
+[09:17:49] [Netty Epoll Server IO #3/INFO] []: <jklvfde> yeah
+[09:20:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jklvfde issued server command: //set 5:1
+[09:20:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jklvfde issued server command: //set 5:1
+[09:20:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jklvfde issued server command: //set 5:1
+[09:20:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jklvfde issued server command: //set 5:1
+[09:21:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jklvfde issued server command: //set 5:1
+[09:21:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jklvfde issued server command: //set 5:1
+[09:21:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jklvfde issued server command: //set 5:1
+[09:21:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jklvfde issued server command: //set 5:1
+[09:25:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jklvfde lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[09:25:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jklvfde left the game
+[14:05:07] [Server thread/INFO] []: --------- Help: Index ---------------------------
+[14:05:07] [Server thread/INFO] []: Use /help [n] to get page n of help.
+[14:05:07] [Server thread/INFO] []: Aliases: Lists command aliases
+[14:05:07] [Server thread/INFO] []: Bukkit: All commands for Bukkit
+[14:05:07] [Server thread/INFO] []: Minecraft: All commands for Minecraft
+[14:05:07] [Server thread/INFO] []: /advancement: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /ban: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /ban-ip: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /banlist: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /blockdata: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /clear: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /clone: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /debug: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /defaultgamemode: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /deop: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /difficulty: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /effect: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /enchant: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /entitydata: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /execute: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /fill: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /function: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /gamemode: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /gamerule: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /give: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /help: Shows the help menu
+[14:05:07] [Server thread/INFO] []: /kick: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /kill: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /list: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /locate: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /me: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /minecraft:help: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /minecraft:tell: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /op: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /pardon: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /pardon-ip: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /particle: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /playsound: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /plugin: Load or unload plugin
+[14:05:07] [Server thread/INFO] []: /plugins: Gets a list of plugins running on the server
+[14:05:07] [Server thread/INFO] []: /recipe: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /reload: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /replaceitem: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /restart: Restarts the server
+[14:05:07] [Server thread/INFO] []: /save-all: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /save-off: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /save-on: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /say: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /scoreboard: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /seed: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /setblock: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /setidletimeout: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /setworldspawn: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /spawnpoint: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /spigot: Spigot related commands
+[14:05:07] [Server thread/INFO] []: /spreadplayers: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /stats: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /stop: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /stopsound: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /summon: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /teleport: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /tell: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /tellraw: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /testfor: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /testforblock: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /testforblocks: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /time: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /timings: Manages Spigot Timings data to see performance of the server.
+[14:05:07] [Server thread/INFO] []: /title: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /toggledownfall: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /tp: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /tps: Gets the current ticks per second for the server
+[14:05:07] [Server thread/INFO] []: /trigger: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /version: Gets the version of this server including any plugins in use
+[14:05:07] [Server thread/INFO] []: /weather: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /whitelist: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /worldborder: A Mojang provided command.
+[14:05:07] [Server thread/INFO] []: /xp: A Mojang provided command.

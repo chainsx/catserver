@@ -1,0 +1,80 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  CatCorePlugin (forge-1.12.2-14.23.5.2838-universal.jar)
+  AnotherCommonBugFix (bugfix.jar)
+Contact their authors BEFORE contacting forge
+
+// Oops.
+
+Time: 7/29/19 12:02 PM
+Description: Exception in server tick loop
+
+Missing Mods:
+	thaumcraft : need [6.1.BETA26,)]: have missing
+	dummycore : need [2.4.112.3,)]: have missing
+
+Missing Mods:
+	appliedenergistics2 : need [rv6-stable-6,)]: have missing
+	thaumcraft : need [6.1.BETA26,)]: have missing
+
+net.minecraftforge.fml.common.MultipleModsErrored
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:298)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:570)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:334)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:166)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:603)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 4.15.0-54-generic
+	Java Version: 1.8.0_121, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 671746560 bytes (640 MB) / 1073741824 bytes (1024 MB) up to 4294967296 bytes (4096 MB)
+	JVM Flags: 5 total; -XX:+UseG1GC -XX:+AggressiveOpts -XX:+UseCompressedOops -Xmx4096M -Xms1024M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	CraftBukkit Information: 
+   Running: 
+   Failed to handle CraftCrashReport:
+java.lang.NullPointerException
+	at org.bukkit.Bukkit.getName(Bukkit.java:92)
+	at org.bukkit.craftbukkit.v1_12_R1.CraftCrashReport.call(CraftCrashReport.java:20)
+	at net.minecraft.crash.CrashReportCategory.func_189529_a(CrashReportCategory.java:96)
+	at net.minecraft.crash.CrashReport.func_71504_g(CrashReport.java:120)
+	at net.minecraft.crash.CrashReport.<init>(CrashReport.java:41)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:666)
+	at java.lang.Thread.run(Thread.java:745)
+
+	FML: MCP 9.42 Powered by Forge 14.23.5.2838 11 mods loaded, 11 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                            | Version         | Source                                            | Signature                                |
+	|:----- |:----------------------------- |:--------------- |:------------------------------------------------- |:---------------------------------------- |
+	| L     | minecraft                     | 1.12.2          | minecraft.jar                                     | None                                     |
+	| L     | mcp                           | 9.42            | minecraft.jar                                     | None                                     |
+	| L     | FML                           | 8.0.99.99       | forge-1.12.2-14.23.5.2838-universal.jar           | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | forge                         | 14.23.5.2838    | forge-1.12.2-14.23.5.2838-universal.jar           | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | anothercommonbugfix           | 1.0.5           | minecraft.jar                                     | None                                     |
+	| L     | baubles                       | 1.5.2           | Baubles-1.12-1.5.2.jar                            | None                                     |
+	| L     | mineral_expansion             | 1.0.5           | mine.jar                                          | None                                     |
+	| L     | spedosketeleportationcommands | 0.7             | teleportation.jar                                 | None                                     |
+	| L     | thaumicbases                  | 3.3.400.6r      | thaumicbases-3.3.352.6r.jar                       | None                                     |
+	| L     | thaumicenergistics            | 2.2.3           | thaumicenergistics-2.2.3.jar                      | None                                     |
+	| L     | worldedit                     | 6.1.10-SNAPSHOT | worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar | None                                     |
+
+	Loaded coremods (and transformers): 
+CatCorePlugin (forge-1.12.2-14.23.5.2838-universal.jar)
+  catserver.server.remapper.NetworkTransformer
+  catserver.server.remapper.SideTransformer
+AnotherCommonBugFix (bugfix.jar)
+  com.anotherera.core.ACBFClassTransformer
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
